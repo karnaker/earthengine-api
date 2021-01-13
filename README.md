@@ -1,5 +1,5 @@
-Google Earth Engine API
-=======================
+Google & Vikram's Earth Engine API
+==================================
 
 Python and JavaScript client libraries for calling the Google Earth Engine API.
 
